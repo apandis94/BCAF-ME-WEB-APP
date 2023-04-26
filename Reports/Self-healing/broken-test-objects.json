@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Inquiry_Status/Cek_DokumenResume/a_Back",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027appContainer\u0027]/div/div/div[2]/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Inquiry_Status/Cek_DokumenResume/a_Back_XPATH.png"
+    }
+  ]
+}
